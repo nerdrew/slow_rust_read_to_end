@@ -1,0 +1,7 @@
+[package]
+name = "slow_flate2"
+version = "0.0.1"
+authors = ["Andrew Ryan Lazarus <nerdrew@gmail.com>"]
+
+[dependencies]
+flate2 = "*"
